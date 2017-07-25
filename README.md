@@ -30,6 +30,9 @@ Use the project you just made:
 
 Deploy the backend:
 
+`cd functions`
+`npm install`
+`cd ..`
 `firebase deploy`
 
 Make a note of your function URL.
