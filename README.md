@@ -38,4 +38,14 @@ Deploy the backend:
 
 `firebase deploy`
 
-Make a note of your function URL.
+Make a note of your function URL to add to api.ai.
+
+## Api.ai
+
+Make a new agent.
+
+Import the zip from this project into the new agent.
+
+Enable actions on google in integrations.
+
+Paste your function URL from the last section in the fulfillment page.
