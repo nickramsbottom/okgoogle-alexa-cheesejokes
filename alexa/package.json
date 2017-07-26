@@ -1,0 +1,9 @@
+{
+  "name": "alexa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
