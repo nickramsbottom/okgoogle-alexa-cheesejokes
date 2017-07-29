@@ -13,13 +13,21 @@ const jokes = {
     'What do you call cheese that\'s not yours?',
     'Did you hear about the explosion at the cheese factory?',
     'What kind of cheese do you use to disguise a small horse?',
+    'Which hotel do mice stay in?',
+    'What is a lion\'s favourite cheese?',
+    'What\'s the richest cheese in the world?',
+    'Which cheese would you use to coax a bear down from a tree?'
   ],
   replies: [
     'Halloumi',
     'Nacho cheese',
     'de Brie was everywhere',
     'Mascarpone',
-  ],
+    'The Stilton',
+    'Roarquefort',
+    'Paris Stilton',
+    'Camembert'
+  ]
 };
 
 const strings = {
